@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consolidacaoGit", "consolidacaoGit\consolidacaoGit.csproj", "{5B21FED5-216D-42AA-92E6-0E6ADEF698AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B21FED5-216D-42AA-92E6-0E6ADEF698AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B21FED5-216D-42AA-92E6-0E6ADEF698AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B21FED5-216D-42AA-92E6-0E6ADEF698AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B21FED5-216D-42AA-92E6-0E6ADEF698AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A671EE0-FDFD-4305-87B4-44A01F74504B}
+	EndGlobalSection
+EndGlobal
